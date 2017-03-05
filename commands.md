@@ -1,4 +1,5 @@
-cf login -a https://api.ng.bluemix.net -u zaiboot@gmail.com -p 1!@#$%^QWErty
+cf login -a https://api.ng.bluemix.net -u zaiboot@gmail.com
+
 bx service offerings # nunca retorno.
 
 cf create-service conversation free my-conversation-service
